@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Alarm</string>
+    <string name="time">00:00</string>
+</resources>
